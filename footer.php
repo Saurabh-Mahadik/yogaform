@@ -1,5 +1,5 @@
 </div><!-- /#right-panel -->
-        <!-- Right Panel -->
+        
 
 
         <script src="vendors/jquery/dist/jquery.min.js"></script>
